@@ -20,3 +20,7 @@ For this project I used Javascript to import two Node.js modules "inquirer 8.2.4
 # Photo Screenshot of generated README file:
 
 ![Alt text](<Assets/snippet of generated readme file.png>)
+
+- Screen Recorded clip of node index.js: https://www.dropbox.com/scl/fi/6bnzfb1wfyvc1zy2p9b59/Readme-File-genorator.mov?rlkey=btfrf8ubjb1yn6sz3hnorevyh&dl=0
+
+Github Repository Link: https://github.com/emelmusica/module-9-challenge.git
