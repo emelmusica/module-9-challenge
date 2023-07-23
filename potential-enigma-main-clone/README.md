@@ -19,4 +19,4 @@ For this project I used Javascript to import two Node.js modules "inquirer 8.2.4
 
 # Photo Screenshot of generated README file:
 
-![Alt text](<../Assets/ReadME Code Snippet.png>) 
+![Alt text](<Assets/snippet of generated readme file.png>)
